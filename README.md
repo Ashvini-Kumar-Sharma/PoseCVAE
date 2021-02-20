@@ -1,4 +1,4 @@
-## Official project page for the ICPR'20 paper "PoseCVAE: Anomalous Human Activity Detection"
+## PoseCVAE: Anomalous Human Activity Detection
 
 You can use the [editor on GitHub](https://github.com/Ashvini-Kumar-Sharma/PoseCVAE/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
